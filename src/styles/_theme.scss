@@ -1,0 +1,55 @@
+:root {
+  --app-bg: #f7f8fb;
+  --app-text: #1f2937;
+
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 18px;
+  --radius-xl: 22px;
+
+  --shadow-1: 0 10px 26px rgba(15, 23, 42, 0.10);
+  --shadow-2: 0 18px 44px rgba(15, 23, 42, 0.14);
+
+  --surface-1: rgba(255, 255, 255, 0.96);
+  --surface-2: rgba(255, 255, 255, 0.9);
+  --outline-1: rgba(15, 23, 42, 0.12);
+
+  --app-accent-1: rgba(99, 102, 241, 0.18);
+  --app-accent-2: rgba(56, 189, 248, 0.14);
+  --app-accent-3: rgba(34, 197, 94, 0.10);
+
+  --glass-bg: rgba(255, 255, 255, 0.72);
+  --glass-border: rgba(15, 23, 42, 0.08);
+  --glass-shadow: 0 10px 28px rgba(15, 23, 42, 0.10);
+  --glass-blur: 10px;
+
+  --bs-body-bg: var(--app-bg);
+  --bs-body-color: var(--app-text);
+
+  --bs-border-color: var(--outline-1);
+}
+
+body[data-theme='dark'] {
+  --app-bg: #0b1020;
+  --app-text: rgba(255, 255, 255, 0.92);
+
+  --shadow-1: 0 12px 32px rgba(0, 0, 0, 0.42);
+  --shadow-2: 0 22px 54px rgba(0, 0, 0, 0.52);
+  --surface-1: rgba(15, 23, 42, 0.74);
+  --surface-2: rgba(15, 23, 42, 0.62);
+  --outline-1: rgba(255, 255, 255, 0.12);
+
+  --app-accent-1: rgba(99, 102, 241, 0.14);
+  --app-accent-2: rgba(56, 189, 248, 0.10);
+  --app-accent-3: rgba(34, 197, 94, 0.08);
+
+  --glass-bg: rgba(15, 23, 42, 0.62);
+  --glass-border: rgba(255, 255, 255, 0.10);
+  --glass-shadow: 0 12px 32px rgba(0, 0, 0, 0.42);
+  --glass-blur: 12px;
+
+  --bs-body-bg: var(--app-bg);
+  --bs-body-color: var(--app-text);
+
+  --bs-border-color: var(--outline-1);
+}
