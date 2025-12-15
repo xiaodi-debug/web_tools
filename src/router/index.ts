@@ -1,6 +1,6 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 
-const routerBase = "/cloud-tools/";
+const routerBase = "/web_tools/";
 
 const router = createRouter({
   history: createWebHashHistory(routerBase),
