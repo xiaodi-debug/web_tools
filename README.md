@@ -71,8 +71,8 @@ A modern web application built with Vue 3, TypeScript, and Vite, providing a col
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/your-username/cloud-tools.git
-   cd cloud-tools
+   git clone https://github.com/your-username/web_tools.git
+   cd web_tools
    ```
 
 2. 安装依赖：
@@ -92,8 +92,8 @@ A modern web application built with Vue 3, TypeScript, and Vite, providing a col
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/cloud-tools.git
-   cd cloud-tools
+   git clone https://github.com/your-username/web_tools.git
+   cd web_tools
    ```
 
 2. Install dependencies:
